@@ -1,0 +1,10 @@
+what r4, label
+label: mov r3 *r4
+.data -4 ,  ,6 
+.data 
+.data NOT_NUMERR
+.data 15.8
+.string 
+.string ""
+.string word"
+.string "word
